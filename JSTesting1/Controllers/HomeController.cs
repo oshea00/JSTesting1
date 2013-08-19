@@ -16,5 +16,9 @@ namespace JSTesting1.Controllers
             return View();
         }
 
+        public ActionResult Widgets()
+        {
+            return View();
+        }
     }
 }
